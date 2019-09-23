@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sqlite App</string>
+    <string name="machine_id">Device ID</string>
+    <string name="medicine_id">Medicnine ID</string>
+    <string name="medicine_quantity"> Quantity (cc)</string>
+    <string name="time_of_injection">Time</string>
+    <string name="submit_button">Submit</string>
+</resources>
